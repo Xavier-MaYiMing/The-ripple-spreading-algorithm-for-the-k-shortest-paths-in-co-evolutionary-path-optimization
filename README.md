@@ -27,23 +27,23 @@ The k shortest paths problem aims to find the k shortest paths between two nodes
 
 #### Example
 
-![CEPO1](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest paths problem in co-evolutionary path optimization\CEPO1.gif)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO1.gif)
 
 The first shortest path, length is 162.17650824456905.
 
-![CEPO2](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest paths problem in co-evolutionary path optimization\CEPO2.gif)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO2.gif)
 
 The second shortest path, length is 162.32929237033122.
 
-![CEPO3](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest paths problem in co-evolutionary path optimization\CEPO3.gif)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO3.gif)
 
 The third shortest path, length is 162.36920013460093.
 
-![CEPO4](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest paths problem in co-evolutionary path optimization\CEPO4.gif)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO4.gif)
 
 The fourth shortest path, length is 162.5219842603631.
 
-![CEPO5](C:\Users\dell\Desktop\研究生\个人算法主页\The ripple-spreading algorithm for the k shortest paths problem in co-evolutionary path optimization\CEPO5.gif)
+![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO5.gif)
 
 The fifth shortest path, length is 162.73900697813062.
 
