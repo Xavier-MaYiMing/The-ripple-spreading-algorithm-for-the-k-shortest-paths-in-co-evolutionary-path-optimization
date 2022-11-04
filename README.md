@@ -27,23 +27,23 @@ The k shortest paths problem aims to find the k shortest paths between two nodes
 
 #### Example
 
-![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO1.gif)
+![image](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO1.gif)
 
 The first shortest path, length is 162.17650824456905.
 
-![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO2.gif)
+![image](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO2.gif)
 
 The second shortest path, length is 162.32929237033122.
 
-![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO3.gif)
+![image](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO3.gif)
 
 The third shortest path, length is 162.36920013460093.
 
-![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO4.gif)
+![image](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO4.gif)
 
 The fourth shortest path, length is 162.5219842603631.
 
-![](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO5.gif)
+![image](https://github.com/Xavier-MaYiMing/The-ripple-spreading-algorithm-for-the-k-shortest-paths-in-co-evolutionary-path-optimization/blob/main/CEPO5.gif)
 
 The fifth shortest path, length is 162.73900697813062.
 
