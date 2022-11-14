@@ -241,7 +241,7 @@ def main(network, source, destination, k, x, y, orad, ospeed):
 
                 # Step 3.5. New incoming ripples
                 for node in neighbor[epicenter]:
-                    if len(omega[node]) < k and node in active_node:  # the node has not been visited yet
+                    if len(omega[node]) < k:  # the node has not been visited yet
                         temp_length = network[epicenter][node]
                         if temp_length <= radius < temp_length + v:
                             # Step 3.6. Accessible node
